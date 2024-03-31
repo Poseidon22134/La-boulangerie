@@ -1,2 +1,2 @@
-# La-boulangerie
+# La-boulangerie (The bakery)
  Pygame community spring jam submission.
